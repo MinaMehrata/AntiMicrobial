@@ -31,4 +31,19 @@ complete (in diverenterent ways). Another issue involved files ST3 700101000605.
 ST3 700102063651.csv from 5-124 Utility Room, and ST4 700101000345.csv,
 ST4 700102063417.csv from 5-110 Bathroom, which had time stamps of 1970.
 
+## Results
+
 ![fig 1](https://github.com/MinaMehrata/AntiMicrobial/blob/master/images/pic1.PNG)
+![fig 2]()
+![fig 3]()
+![fig 4]()
+![fig 5]()
+![fig 6]()
+![fig 7]()
+![fig 8]()
+![fig 9]()
+![fig 10]()
+![fig 11]()
+![fig 12]()
+![fig 13]()
+![fig 14]()
