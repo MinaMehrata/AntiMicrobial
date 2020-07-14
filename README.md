@@ -1,4 +1,5 @@
-# AntiMicrobial
+<<<<<<< HEAD
+## AntiMicrobial
 
 #objective
 The objective of this work was to analyze approximately 3 years worth of data
@@ -31,3 +32,4 @@ ter the start of the data collection. In other instances, the last row of data w
 complete (in diverenterent ways). Another issue involved files ST3 700101000605.csv,
 ST3 700102063651.csv from 5-124 Utility Room, and ST4 700101000345.csv,
 ST4 700102063417.csv from 5-110 Bathroom, which had time stamps of 1970.
+
