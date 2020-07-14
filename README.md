@@ -4,12 +4,10 @@
 ## objective
 The objective of this work was to analyze approximately 3 years worth of data
 (collected every second), to determine:
-1-Number of door opening in each room per day, per week, per month and
-per year
-2- Number of completed disinfection cycles per day, per week, per month and
-per year
-3-Number of non-completed disinfection cycle for 1 min, 2 min, 3min and 4
-min time periods per day, per week, per month and per year. 
+
+1. Number of door opening in each room per day, per week, per month and per year
+2. Number of completed disinfection cycles per day, per week, per month and per year
+3. Number of non-completed disinfection cycle for 1 min, 2 min, 3min and 4 min time periods per day, per week, per month and per year. 
 
 ## How the code works
 
