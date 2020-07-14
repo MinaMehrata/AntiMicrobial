@@ -33,7 +33,7 @@ ST4 700102063417.csv from 5-110 Bathroom, which had time stamps of 1970.
 
 ## Results
 
-![fig 1](https://github.com/MinaMehrata/AntiMicrobial/blob/master/images/pic1.PNG)
+(https://github.com/MinaMehrata/AntiMicrobial/blob/master/images/pic1.PNG)
 ![fig 2](https://github.com/MinaMehrata/AntiMicrobial/blob/master/images/pic2.PNG)
 ![fig 3](https://github.com/MinaMehrata/AntiMicrobial/blob/master/images/pic3.PNG)
 ![fig 4](https://github.com/MinaMehrata/AntiMicrobial/blob/master/images/pic4.PNG)
